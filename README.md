@@ -1,2 +1,2 @@
-# GET-Batch-2026-Project
+MDMS-Team-7
 Team project repository
